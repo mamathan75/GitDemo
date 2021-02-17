@@ -1,0 +1,34 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 3, Errors: 0, Skipped: 7, Time elapsed: 2.92 s <<< FAILURE! - in TestSuite
+initialize(Academy.HomePage)  Time elapsed: 2.102 s  <<< FAILURE!
+java.lang.Error: 
+Unresolved compilation problems: 
+	browserName cannot be resolved to a variable
+	browserName cannot be resolved
+	browserName cannot be resolved
+	browserName cannot be resolved
+
+	at Academy.HomePage.initialize(HomePage.java:28)
+
+initialize(Academy.validateTitle)  Time elapsed: 0.566 s  <<< FAILURE!
+java.lang.Error: 
+Unresolved compilation problems: 
+	browserName cannot be resolved to a variable
+	browserName cannot be resolved
+	browserName cannot be resolved
+	browserName cannot be resolved
+
+	at Academy.validateTitle.initialize(validateTitle.java:28)
+
+initialize(Academy.validateNavigationBar)  Time elapsed: 0.037 s  <<< FAILURE!
+java.lang.Error: 
+Unresolved compilation problems: 
+	browserName cannot be resolved to a variable
+	browserName cannot be resolved
+	browserName cannot be resolved
+	browserName cannot be resolved
+
+	at Academy.validateNavigationBar.initialize(validateNavigationBar.java:32)
+
